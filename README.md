@@ -1,6 +1,6 @@
 # Login & Registration Form with MERN stack
 
-## 👋 Introduction
+## Introduction
 
 Responsive user Registration and Login (SignIn & SignUp) Form functionality using React, NodeJS, ExpressJS and MongoDB and Bootstrap.
 
@@ -58,4 +58,3 @@ This project uses the following technologies:
 
 <br/>
 
-<h2> Do not forget to give a star! ⭐🤗 </h2>
